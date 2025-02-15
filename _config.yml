@@ -2,4 +2,7 @@ title: Luca De Simone
 #logo: percorso locale per insierire un immagine
 #description: ciao
 #show_downloads: true
+# Informazioni personali
+email: "tuo.email@example.com"
+linkedin: "https://www.linkedin.com/in/tuo-profilo"
 theme: jekyll-theme-minimal
