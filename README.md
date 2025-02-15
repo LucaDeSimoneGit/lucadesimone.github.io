@@ -7,7 +7,7 @@
 - Bachelor's Degree, Statistics | University of Milano-Bicocca (_Oct 2019 - Sept 2022_)
 
 ### Work Experience
-**Research Collaborator @ University of Milano-Bicocca (_July 2024 - Oct 2024_)
+**Research Collaborator @ University of Milano-Bicocca (_July 2024 - Oct 2024_)**
 - Development of a georeferenced dataset of Italian healthcare facilities (2010-2021) using National Health Service (SSN) data.
 - Address geocoding with OpenStreetMap (OSM) via R and tidygeocoder, resolving mismatches between SSN and OSM addresses through custom R functions.
 - Hierarchical georeferencing approach to ensure accurate spatial mapping, integrating multiple validation steps and jittering techniques to prevent overlapping structures.
@@ -16,7 +16,7 @@
 - Identification of trends showing a decline in small and medium hospitals, while large hospitals expanded, particularly along the Adriatic coast and in Calabria.
 
 
-**Academic Internship @ University of Milano-Bicocca (_Mar 2024 - May 2024_)
+**Academic Internship @ University of Milano-Bicocca (_Mar 2024 - May 2024_)**
 - Management and Interpolation of Spatial Data (Italian Healthcare Facilities)
 - Direct and Indirect Georeferencing
 - Static and Dynamic Cartographic Representation
