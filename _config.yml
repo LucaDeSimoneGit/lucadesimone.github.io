@@ -1,8 +1,11 @@
-title: Luca De Simone
-#logo: percorso locale per insierire un immagine
-#description: ciao
-#show_downloads: true
+title: "Luca De Simone"
+# logo: "percorso/locale/immagine.png"  # Se hai un logo, specifica il percorso corretto
+# description: "Ciao, benvenuto nel mio sito!"  # Descrizione breve del sito
+show_downloads: true  # Se hai file scaricabili (es. repo GitHub)
+
 # Informazioni personali
 email: "tuo.email@example.com"
 linkedin: "https://www.linkedin.com/in/tuo-profilo"
+
+# Tema di GitHub Pages
 theme: jekyll-theme-minimal
