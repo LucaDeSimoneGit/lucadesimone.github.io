@@ -1,6 +1,10 @@
 # Portfolio
 
 #### Technical Skills: R, SQL, Python
+#### Informazioni personali
+**Email: [l.desimone011@gmail.com](mailto:l.desimone011@gmail.com)**
+**linkedin: "https://www.linkedin.com/in/luca-de-simone-77b461273/"**
+
 
 ## Education			       		
 - Master's Degree, Statistics	| University of Milano-Bicocca (_Oct 2022 - Present_)	 			        		
