@@ -23,4 +23,5 @@
 ### Projects
 -**Contributor to the scientific pubblication:**  
 "Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study"
-[Publication](https://bmjopen.bmj.com/content/14/2/e075185)
+[BMJ Journals](https://bmjopen.bmj.com/content/14/2/e075185)
+[Personal GitHub](https://bmjopen.bmj.com/content/14/2/e075185)
