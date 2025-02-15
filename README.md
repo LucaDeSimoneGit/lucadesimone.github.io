@@ -3,7 +3,7 @@
 #### Technical Skills: R, SQL, Python
 #### Contact Information  
 - **Email: [l.desimone011@gmail.com](mailto:l.desimone011@gmail.com)**  
-- **LinkedIn: [Luca De Simone](https://www.linkedin.com/in/luca-de-simone-77b461273/) **
+- **LinkedIn: [Luca De Simone](https://www.linkedin.com/in/luca-de-simone-77b461273/)**
 
 
 ## Education			       		
