@@ -28,10 +28,17 @@
 - [BMJ Journals](https://bmjopen.bmj.com/content/14/2/e075185)  
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/SelfSelectionRegressionLongCovid_ITA.pdf)
 
+### ML
+
+### Intro serie storiche
+
 ### Clustering Analysis Using the Pitman-Yor Process  
 Theoretical Insights into the Pitman-Yor Process and Its Application as a Clustering Method on Real-World Data
 - [Personal GitHub (English version)](https://lucadesimonegit.github.io/portfolio/PitmanYorProcessAnalysis_ENG.pdf)
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/PitmanYorProcessAnalysis_ITA.pdf)
+
+### Taxi Tip Prediction   
+Prediction Taxi Tip using Linear Parametric and NonParametric models
 
 
   
