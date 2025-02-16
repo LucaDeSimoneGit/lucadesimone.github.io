@@ -23,15 +23,14 @@
 
 ## 📌 Projects
 
-### 📄 Contributor to the scientific publication:
-"Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study"
+### 📄 Contributor to the scientific publication: "Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study"
 - [BMJ Journals](https://bmjopen.bmj.com/content/14/2/e075185)  
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/SelfSelectionRegressionLongCovid_ITA.pdf)
 
 
 ### 📄 Churn Analysis: a data-driven approach for improving business performance
 
-- [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/PitmanYorProcessAnalysis_ITA.pdf)
+- [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/ChurnAnalysis_ITA.pdf)
 
 
 ### 📄 Intro serie storiche
