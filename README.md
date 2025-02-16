@@ -30,7 +30,8 @@
 
 ### Clustering Analysis Using the Pitman-Yor Process  
 Theoretical Insights into the Pitman-Yor Process and Its Application as a Clustering Method on Real-World Data
-- [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/PitmanYorProcessAnalysis_ITA.pdf)
 - [Personal GitHub (English version)](https://lucadesimonegit.github.io/portfolio/PitmanYorProcessAnalysis_ENG.pdf)
+- [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/PitmanYorProcessAnalysis_ITA.pdf)
+
 
   
