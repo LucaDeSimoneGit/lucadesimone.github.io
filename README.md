@@ -28,4 +28,4 @@
 ### Contributor to the scientific pubblication: 
 **"Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study"** 
 - [BMJ Journals](https://bmjopen.bmj.com/content/14/2/e075185)  
-- [Personal GitHub (Italian version)](https://github.com/tuo-username/portfolio/raw/main/file.pdf)
+- [Personal GitHub (Italian version)](https://github.com/LucaDeSimoneGit/portfolio/blob/main/SelfSelectionRegressionLongCovid.pdf)
