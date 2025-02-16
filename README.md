@@ -23,31 +23,31 @@
 
 ## 📌 Projects
 
-### 📄 Contributor to the scientific publication: "Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study"
-📎 **Tags:** Censored Data | PCA | Heckit model
+### 📄 Contributor to the scientific publication: "Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study"  
+📎 **Tags:** Censored Data | PCA | Heckit Model
 - [BMJ Journals](https://bmjopen.bmj.com/content/14/2/e075185)  
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/SelfSelectionRegressionLongCovid_ITA.pdf)
 
 
-### 📄 Churn Analysis: a data-driven approach for improving business performance
-📎 **Tags:** PCA | AutoEncoders| K-Means | H-clust| DBScan | Logistic model | Decision Tree | Random Forest | Kernel SVM | Neural Networks
+### 📄 Churn Analysis: a data-driven approach for improving business performance  
+📎 **Tags:** PCA | AutoEncoders| K-Means | H-clust| DBScan | Logistic Model | Decision Tree | Random Forest | Kernel SVM | Neural Networks
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/ChurnAnalysis_ITA.pdf)
 
 
 ### 📄 Intro serie storiche
-Descrizione
-📎 **Tags:** Time series | SARIMA models | RegARIMA
+Descrizione  
+📎 **Tags:** Time series | SARIMA Models | RegARIMA
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/PitmanYorProcessAnalysis_ITA.pdf)
 
 
 ### 📄 Clustering Analysis Using the Pitman-Yor Process  
-Theoretical Insights into the Pitman-Yor Process and Its Application as a Clustering Method on Real-World Data
-📎 **Tags:** Dirichlet Process | Pitman-Yor Process | Mixture models | Location Scale Pitman-Yor model
+Theoretical Insights into the Pitman-Yor Process and Its Application as a Clustering Method on Real-World Data  
+📎 **Tags:** Dirichlet Process | Pitman-Yor Process | Mixture Models | Location Scale Pitman-Yor Model
 - [Personal GitHub (English version)](https://lucadesimonegit.github.io/portfolio/PitmanYorProcessAnalysis_ENG.pdf)
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/PitmanYorProcessAnalysis_ITA.pdf)
 
 ### 📄 Taxi Tip Prediction   
-Prediction Taxi Tip using Linear Parametric and NonParametric models
+Prediction Taxi Tip using Linear Parametric and NonParametric models  
 📎 **Tags:** Robust Regression | Ridge | Lasso | Elastic Net | GAM
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/TaxiTipPrediction_ITA.pdf)
 
