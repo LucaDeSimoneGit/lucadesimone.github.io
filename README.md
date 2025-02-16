@@ -23,8 +23,7 @@
 
 ## 📌 Projects
 
-📄 <small>**Contributor to the scientific publication:**  
-**"Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study"** </small>
+📄 **Contributor to the scientific publication:** "Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study"
 - [BMJ Journals](https://bmjopen.bmj.com/content/14/2/e075185)  
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/SelfSelectionRegressionLongCovid_ITA.pdf)
 
