@@ -5,8 +5,8 @@
 - **Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.desimone011@gmail.com)**  
 - **LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-de-simone-77b461273/)**
 
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/tuo-profilo/) : [LinkedIn Profilo](https://www.linkedin.com/in/tuo-profilo/)
-- [![Email](https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon.png)](mailto:tuoemail@example.com) : [Email](mailto:tuoemail@example.com)
+- [![LinkedIn](https://img.freepik.com/vettori-premium/logo-linkedin-quadrato-isolato-su-sfondo-bianco_469489-892.jpg?semt=ais_hybrid) : [Luca De Simone](https://www.linkedin.com/in/luca-de-simone-77b461273/)
+- [![Email](https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon.png)](mailto:tuoemail@example.com) : [l.desimone011@gmail.com](mailto:l.desimone011@gmail.com)
 
 
 ## Education			       		
