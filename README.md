@@ -2,17 +2,11 @@
 
 #### Technical Skills: R, SQL, Python
 #### Contact Information  
-- **Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.desimone011@gmail.com)**  
-- **LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-de-simone-77b461273/)**
 
-- ![LinkedIn](https://img.freepik.com/vettori-premium/logo-linkedin-quadrato-isolato-su-sfondo-bianco_469489-892.jpg?semt=ais_hybrid) : [Luca De Simone](https://www.linkedin.com/in/luca-de-simone-77b461273/)
-- ![Email](https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon.png)](mailto:tuoemail@example.com) : [l.desimone011@gmail.com](mailto:l.desimone011@gmail.com)
-
-<img src="https://img.freepik.com/vettori-premium/logo-linkedin-quadrato-isolato-su-sfondo-bianco_469489-892.jpg?semt=ais_hybrid" alt="LinkedIn" style="width:16px; vertical-align:middle;"> : 
-[LinkedIn Profilo](https://www.linkedin.com/in/tuo-profilo/)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon.png" alt="Email" style="width:16px; vertical-align:middle;"> : 
-[Email](mailto:tuoemail@example.com)
+- **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" style="width:18px; vertical-align:middle;"> : 
+[Luca De Simone](https://www.linkedin.com/in/luca-de-simone-77b461273/)**
+- **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Email" style="width:18px; vertical-align:middle;"> : 
+[l.desimone011@gmail.com](mailto:l.desimone011@gmail.com)**
 
 
 ## Education			       		
