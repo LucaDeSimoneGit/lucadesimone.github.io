@@ -3,9 +3,9 @@
 #### Technical Skills: R, SQL, Python
 #### Contact Information  
 
-- **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" style="width:20px; vertical-align:middle;">
+- **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" style="width:20px; vertical-align:text-top;">
 [Luca De Simone](https://www.linkedin.com/in/luca-de-simone-77b461273/)**
-- **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Email" style="width:20px; vertical-align:middle;"> 
+- **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Email" style="width:20px; vertical-align:text-top;"> 
 [l.desimone011@gmail.com](mailto:l.desimone011@gmail.com)**
 
 
