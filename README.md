@@ -43,7 +43,7 @@ Theoretical Insights into the Pitman-Yor Process and Its Application as a Cluste
 
 ### 📄 Taxi Tip Prediction   
 Prediction Taxi Tip using Linear Parametric and NonParametric models
-- [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/PitmanYorProcessAnalysis_ITA.pdf)
+- [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/TaxiTipPrediction_ITA.pdf)
 
 
 
