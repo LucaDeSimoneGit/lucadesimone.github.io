@@ -13,6 +13,7 @@
 - Master's Degree, Statistics	| University of Milano-Bicocca (_Oct 2022 - Present_)	 			        		
 - Bachelor's Degree, Statistics | University of Milano-Bicocca (_Oct 2019 - Sept 2022_)
 
+
 ## Work Experience
 **Research Collaborator @ University of Milano-Bicocca (_July 2024 - Oct 2024_)**
 - Development of a georeferenced dataset of Italian healthcare facilities (2010-2021) using National Health Service (SSN) data.
@@ -20,17 +21,16 @@
 - Spatiotemporal analysis of hospital distribution changes (2010-2021) to assess territorial disparities in healthcare accessibility.
 
 
-**Academic Internship @ University of Milano-Bicocca (_Mar 2024 - May 2024_)**
-- Management and Interpolation of Spatial Data (Italian Healthcare Facilities)
-- Direct and Indirect Georeferencing
-- Static and Dynamic Cartographic Representation
-- Point Pattern Analysis and Non-Parametric Intensity Estimation
-
-
 ## Projects
-**Contributor to the scientific pubblication**:  
+### Contributor to the scientific pubblication:  
 
-"Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study"  
+**"Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study"**  
 - [BMJ Journals](https://bmjopen.bmj.com/content/14/2/e075185)  
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/SelfSelectionRegressionLongCovid_ITA.pdf)
+
+### Clustering Analysis Using the Pitman-Yor Process  
+Theoretical Insights into the Pitman-Yor Process and Its Application as a Clustering Method on Real-World Data
+- [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/SelfSelectionRegressionLongCovid_ITA.pdf)
+- [Personal GitHub (English version)](https://lucadesimonegit.github.io/portfolio/SelfSelectionRegressionLongCovid_ITA.pdf)
+
   
