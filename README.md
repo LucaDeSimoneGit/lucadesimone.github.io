@@ -8,6 +8,12 @@
 - ![LinkedIn](https://img.freepik.com/vettori-premium/logo-linkedin-quadrato-isolato-su-sfondo-bianco_469489-892.jpg?semt=ais_hybrid) : [Luca De Simone](https://www.linkedin.com/in/luca-de-simone-77b461273/)
 - ![Email](https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon.png)](mailto:tuoemail@example.com) : [l.desimone011@gmail.com](mailto:l.desimone011@gmail.com)
 
+<img src="https://img.freepik.com/vettori-premium/logo-linkedin-quadrato-isolato-su-sfondo-bianco_469489-892.jpg?semt=ais_hybrid" alt="LinkedIn" style="width:16px; vertical-align:middle;"> : 
+[LinkedIn Profilo](https://www.linkedin.com/in/tuo-profilo/)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon.png" alt="Email" style="width:16px; vertical-align:middle;"> : 
+[Email](mailto:tuoemail@example.com)
+
 
 ## Education			       		
 - Master's Degree, Statistics	| University of Milano-Bicocca (_Oct 2022 - Present_)	 			        		
