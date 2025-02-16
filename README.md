@@ -9,7 +9,7 @@
 [l.desimone011@gmail.com](mailto:l.desimone011@gmail.com)**
 
        
-## 📌 Education			       		
+## 📌 Education 		       		
 - Master's Degree, Statistics	| University of Milano-Bicocca (_Oct 2022 - Present_)	 			        		
 - Bachelor's Degree, Statistics | University of Milano-Bicocca (_Oct 2019 - Sept 2022_)
 
