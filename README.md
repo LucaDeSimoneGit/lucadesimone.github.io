@@ -28,7 +28,7 @@
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/SelfSelectionRegressionLongCovid_ITA.pdf)
 
 📎 **Tags:** Censored Data | PCA | Heckit Model
-<br>
+<br><br>
 
 
 ### 📄 Churn Analysis: a data-driven approach for improving business performance  
@@ -36,7 +36,7 @@ This project focuses on churn prediction in the telecommunications sector using 
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/ChurnAnalysis_ITA.pdf)
 
 📎 **Tags:** PCA | AutoEncoders| K-Means | H-clust| DBScan | Logistic Model | Decision Tree | Random Forest | Kernel SVM | Neural Networks | Bayesian Optimization 
-<br>
+<br><br>
 
 
 ### 📄 The Impact of Milan’s Area B (Restricted Traffic Zone): Sustainability vs. Mobility Constraints
@@ -44,7 +44,7 @@ This study evaluates the environmental impact of 'Area B,' a low-emission zone i
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/AreaB_ITA.pdf)
 
 📎 **Tags:** Time series | SARIMA Models | RegARIMA
-<br>
+<br><br>
 
 ### 📄 Clustering Analysis Using the Pitman-Yor Process  
 Theoretical Insights into the Pitman-Yor Process and Its Application as a Clustering Method on Real-World Data  
@@ -53,7 +53,7 @@ Theoretical Insights into the Pitman-Yor Process and Its Application as a Cluste
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/PitmanYorProcessAnalysis_ITA.pdf)
 
 📎 **Tags:** Dirichlet Process | Pitman-Yor Process | Mixture Models | Location Scale Pitman-Yor Model
-<br>
+<br><br>
 
 
 ### 📄 Taxi Tip Prediction   
@@ -62,5 +62,5 @@ Prediction Taxi Tip using Linear Parametric and NonParametric models
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/TaxiTipPrediction_ITA.pdf)
 
 📎 **Tags:** Robust Regression | Ridge | Lasso | Elastic Net | GAM
-<br>
+<br><br>
   
