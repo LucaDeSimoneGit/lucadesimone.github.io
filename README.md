@@ -41,7 +41,7 @@ This project focuses on churn prediction in the telecommunications sector using 
 
 ### 📄 The Impact of Milan’s Area B (Restricted Traffic Zone): Sustainability vs. Mobility Constraints
 This study evaluates the environmental impact of 'Area B,' a low-emission zone introduced in Milan in 2019 to reduce air pollution and improve urban air quality. The project conducts a policy evaluation by analyzing the time series of nitrogen dioxide (NO₂), a major pollutant from road transport, while controlling for meteorological factors such as temperature, precipitation, global radiation, humidity, and wind speed. The analysis follows the Box-Jenkins methodology to model time series dynamics and assess the effectiveness of traffic restrictions implemented over the years. The study aims to determine whether Area B serves as an effective environmental policy or imposes excessive social and economic burdens on residents.  
-- [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/PitmanYorProcessAnalysis_ITA.pdf)
+- [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/AreaB_ITA.pdf)
 
 📎 **Tags:** Time series | SARIMA Models | RegARIMA
 <br>
